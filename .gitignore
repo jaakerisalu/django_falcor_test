@@ -1,0 +1,20 @@
+# Ignore everything in .idea
+.idea
+
+*.pyo
+*.pyc
+.sass-cache/
+npm-debug.log
+node_modules/
+venv/
+
+django_falcor_test/settings/local.py
+django_falcor_test/db.sqlite3
+django_falcor_test/app/webpack-stats.json
+django_falcor_test/app/build/
+django_falcor_test/assets/
+django_falcor_test/media/
+
+django_falcor_test/.cache
+django_falcor_test/.coverage
+django_falcor_test/cover/
